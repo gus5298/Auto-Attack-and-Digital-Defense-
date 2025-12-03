@@ -2,7 +2,7 @@
 
 ## Closed-Loop XAI-Guided Laser Attack + Digital Color-Filter Defenses
 
-This repository implements a **general closed-loop physical attack framework** for vision-based monitoring systems. It performs **autonomous, XAI-guided laser perturbations** and includes a full suite of **digital color-filter defenses**. The system is device-agnostic: adapting to a new device only requires replacing classifier weight files.
+This repository implements a **general closed-loop physical attack framework** for vision-based monitoring systems. It performs **autonomous, XAI-guided laser perturbations** and includes a full suite of **digital color-filter defenses**. Manual attacks using a gamepad are also supported. The system is device-agnostic: adapting to a new device only requires replacing classifier weight files.
 
 ---
 ## 1. Repository Structure
