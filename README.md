@@ -151,7 +151,7 @@ Only classifier weight files need updating.
 This repository provides:
 - Closed-loop XAI-guided physical attack framework
 - Real-time servo + laser control
-- 15+ digital defenses
+- Digital defenses
 - Attack and defense transferability evaluation
 - Unified, reproducible pipeline for physical adversarial ML research
 
