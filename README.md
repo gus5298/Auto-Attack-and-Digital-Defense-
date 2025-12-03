@@ -143,11 +143,7 @@ Digital defenses apply to both models.
 
 ---
 ## 8. Supported Devices
-Extensible to any device. Examples:
-- Device-A
-- Device-B
-- Device-C
-
+Extensible to any device.
 Only classifier weight files need updating.
 
 ---
